@@ -8,5 +8,5 @@ Soy un desarrollador especializado en Wordpress y php, apasionado por la tecnolo
 
 
 
-Editado desde mi PC con Git y SSH 🚀
+Actualizando desde VS Code usando code . 💻
 
